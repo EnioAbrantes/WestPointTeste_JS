@@ -1,0 +1,16 @@
+{
+  "name": "WestPointTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WestPointTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ênio Abrantes",
+  "license": "ISC",
+  "dependencies": {
+    "is-palindrome": "^0.3.0",
+    "nodemon": "^1.18.10",
+    "random-words": "^1.1.0"
+  }
+}
